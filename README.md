@@ -1,4 +1,4 @@
-"# Deepgi Porcupine" 
+# Deepgi Porcupine
 
 This repository illustrates the application of Porcupine with the wake word "Hey, Deep GI," following this [tutorial](https://picovoice.ai/blog/python-wake-word-detection-tutorial/).
 
