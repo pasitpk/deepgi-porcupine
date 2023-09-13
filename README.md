@@ -1,6 +1,6 @@
 # Deepgi Porcupine
 
-This repository illustrates the application of Porcupine with the wake word "Hey, Deep GI," following this [tutorial](https://picovoice.ai/blog/python-wake-word-detection-tutorial/).
+This repository demonstrates the application of Porcupine on Windows with the wake word "Hey, Deep GI," following this [tutorial](https://picovoice.ai/blog/python-wake-word-detection-tutorial/).
 
 (the custom keywords are "hey deep g i" and "hey dip g i")
 
